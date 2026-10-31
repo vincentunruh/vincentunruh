@@ -1,25 +1,25 @@
-Hey, I'm Vincent
+# Hey, I'm Vincent
 
-I'm a full-stack developer based in Munich, Germany. I like taking an idea, figuring out how to make it work, and turning it into something people can actually use.
+I'm a developer from Munich who loves turning ideas into things people can actually use. I enjoy figuring out how something works, building it, and then spending a little too much time on the details.
 
-Right now, I'm building **LingualGain**, a language-learning app focused on short, natural conversations. It's where I spend most of my time experimenting with product ideas, writing code, and refining the little details that make an app feel right.
+## What I'm building
 
-## What I'm working on
+Right now, most of my time goes into **LingualGain**, a language learning app I'm working on. The idea is to help people feel more comfortable using a new language in real conversations.
 
-**LingualGain** brings together interactive dialogues, audio, pronunciation practice, and structured learning content. The goal is to help people get comfortable with language they might actually use in everyday life.
+It brings together short dialogues, audio, pronunciation practice, and interactive learning. I'm working on everything from the design and small interactions to the APIs, database, and learning features behind the scenes.
 
-I'm building it across the stack, from the learning experience and interface to the APIs, data models, and backend logic. A lot of the work is about finding the simplest solution that still works well as the product grows.
+That's what I enjoy most about building products. One day I'm solving a backend problem, the next I'm trying to make a button feel just right.
 
-## Tech I work with
+## What I work with
 
-**JavaScript · Node.js · Express · MongoDB · HTML · CSS · REST APIs**
+`JavaScript` · `Node.js` · `Express` · `MongoDB` · `REST APIs` · `HTML` · `CSS`
 
-I'm also exploring system design, cloud infrastructure, and practical ways to use AI in development and language learning.
+I'm also learning more about software architecture, security, and how to use AI in ways that are genuinely useful.
 
-## A bit about how I work
+## A little more about me
 
-I learn fastest by building. I usually start with a small version, test what works, and keep improving it. I care about thoughtful design, reliable software, and actually shipping things instead of endlessly polishing plans.
+When I'm not coding, I like being outdoors, hiking, kayaking, playing sports, and trying new things.
 
-Most of my work on LingualGain lives in a private repository while the product is in development, but I'm happy to share the thinking behind what I'm building.
+Most of LingualGain's code is private while I'm building it, but I'm sharing a closer look at the project here: **[LingualGain showcase](https://github.com/vincentunruh/lingualgain-showcase)**.
 
-Always interested in connecting with other developers, founders, and people working on interesting products.
+Always happy to connect with other people who enjoy building things.

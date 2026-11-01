@@ -1,25 +1,43 @@
 # Hey, I'm Vincent
 
-I'm a developer from Munich who loves turning ideas into things people can actually use. I enjoy figuring out how something works, building it, and then spending a little too much time on the details.
+I build software products from idea to implementation. I'm based in Munich, Germany.
 
-## What I'm building
+I'm currently building **[LingualGain](https://github.com/vincentunruh/lingualgain-showcase)**, working across product design, frontend, backend and the systems behind its learning content.
 
-Right now, most of my time goes into **LingualGain**, a language learning app I'm working on. The idea is to help people feel more comfortable using a new language in real conversations.
+I enjoy figuring out both how a product should work and why someone would choose to use it. That has drawn me towards product strategy, customer needs and the business side of software.
 
-It brings together short dialogues, audio, pronunciation practice, and interactive learning. I'm working on everything from the design and small interactions to the APIs, database, and learning features behind the scenes.
+## Building LingualGain
 
-That's what I enjoy most about building products. One day I'm solving a backend problem, the next I'm trying to make a button feel just right.
+LingualGain is a language-learning app built around short conversations. Learners can follow a dialogue, listen to each line, explore unfamiliar expressions and practise responding through interactive exercises.
 
-## What I work with
+I'm building the experience around keeping that conversation flowing: help stays close to the sentence, practice gives learners a turn to respond, and saved positions let them pick up where they left off.
 
-`JavaScript` · `Node.js` · `Express` · `MongoDB` · `REST APIs` · `HTML` · `CSS`
+The app is in development, and its source remains private. The **[product and engineering showcase](https://github.com/vincentunruh/lingualgain-showcase)** provides a closer look at the implemented features and decisions behind them.
 
-I'm also learning more about software architecture, security, and how to use AI in ways that are genuinely useful.
+## Product & Business Thinking
 
-## A little more about me
+LingualGain starts with a practical question: how do you help someone move from recognising a phrase to using it in a conversation?
 
-When I'm not coding, I like being outdoors, hiking, kayaking, playing sports, and trying new things.
+The idea I'm testing is that contextual dialogue, accessible explanations and repeated practice can make that transition easier. It shapes the trade-offs: help should keep someone moving without replacing their own effort; typing should keep practice useful when speaking is unavailable. Content validation takes preparation, but helps keep explanations consistent with what is being taught. Review gives previously encountered material another opportunity to be practised.
 
-Most of LingualGain's code is private while I'm building it, but I'm sharing a closer look at the project here: **[LingualGain showcase](https://github.com/vincentunruh/lingualgain-showcase)**.
+I'd judge the value by whether learners can complete a useful exchange, recall language later without help and choose to return. Where they hesitate or leave would help me decide what to improve next.
 
-Always happy to connect with other people who enjoy building things.
+The commercial questions are equally concrete: who needs this most, where could I reach them, and what lasting benefit would justify paying? Those answers should guide pricing and development priorities, rather than simply adding more features.
+
+## Selected Engineering Work
+
+- **Navigation and recording:** handling cancellation, microphone cleanup and responses that arrive after a learner changes screens.
+- **Contextual explanations:** separating content selection from presentation so word help reflects the sentence, not just an isolated word.
+- **Content consistency:** keeping versions, dependent explanations and review state aligned before material reaches learners.
+
+[Read the case studies, trade-offs and dated test results](https://github.com/vincentunruh/lingualgain-showcase/blob/main/docs/engineering.md).
+
+**Main tools:** JavaScript, Node.js, Express, MongoDB, HTML and CSS, with Vitest and Playwright for testing and esbuild for frontend bundling.
+
+## Beyond The Code
+
+Teaching and real-world communication are also a substantial part of my background. I value clear explanations and making complicated subjects understandable.
+
+I'm especially interested in SaaS and the connection between technology, customer conversations and commercial decisions.
+
+Away from the screen, I like hiking, kayaking, playing sports and trying new things. Always happy to connect with people who enjoy building useful products.
